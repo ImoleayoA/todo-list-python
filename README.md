@@ -207,7 +207,7 @@ Possible improvements for future versions include:
 Imoleayo98
 
 GitHub:
-https://github.com/Imoleayo98
+https://github.com/ImoleayoA
 
 ## License
 
